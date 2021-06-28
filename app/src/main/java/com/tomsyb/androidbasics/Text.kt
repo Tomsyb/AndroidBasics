@@ -8,4 +8,5 @@ package com.tomsyb.androidbasics
 object Text {
     fun text(){}
 
+
 }
