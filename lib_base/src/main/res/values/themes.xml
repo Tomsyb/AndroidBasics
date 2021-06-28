@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TranslateActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="AppDarkTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="window_background">@color/color_F3F4F8</item>
+    </style>
+    <style name="AppLightTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="window_background">@color/color_242425</item>
+    </style>
+</resources>
